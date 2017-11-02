@@ -29,10 +29,10 @@ h4{
 p{
   font-size: 14px;
 }
+.bottom{
+  background-color: dimgray;
+}
 .copyright{
   font-size: 11px;
   color: white;
-}
-.bottom{
-  color: dimgray;
 }
