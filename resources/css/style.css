@@ -30,9 +30,14 @@ p{
   font-size: 14px;
 }
 .bottom{
+  text-align: left;
   background-color: dimgray;
 }
 .copyright{
   font-size: 11px;
+  color: white;
+
+}
+.bottomnav{
   color: white;
 }
