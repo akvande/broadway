@@ -13,8 +13,7 @@ h1{
 .pnav{
   font-size: 18px;
   color: white;
-  text-decoration: underline;
-}
+  }
 h2{
   font-size: 32px;
   font-weight: bold;
@@ -29,4 +28,11 @@ h4{
 }
 p{
   font-size: 14px;
+}
+.copyright{
+  font-size: 11px;
+  color: white;
+}
+.bottom{
+  color: dimgray;
 }
