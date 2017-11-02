@@ -16,3 +16,7 @@ opacity: .50;
   color: white;
   text-decoration: underline;
 }
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
