@@ -2,6 +2,11 @@ html{
   text-align: center;
   font-family: helvetica;
 }
+body{
+  text-align: center;
+  padding: 0px;
+  margin; 0px;
+}
 h1{
   color: white;
   font-size: 70px;
